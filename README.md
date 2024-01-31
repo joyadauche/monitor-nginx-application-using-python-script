@@ -5,6 +5,6 @@
 - Set up an email password for this application. For example, if your email host server is gmail, set it up via https://myaccount.google.com/apppasswords
 
 # Run application
-- Run **pip install -r requirements.txt**
+- Run `pip install -r requirements.txt`
 - Create a .env.development with appropriate values using the .env.development.template file
-- Run **python main.py**
+- Run `python main.py`
