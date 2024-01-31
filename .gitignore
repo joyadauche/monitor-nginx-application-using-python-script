@@ -1,0 +1,6 @@
+# Ignore file created by the OS
+**/.DS_Store
+
+.idea/
+
+.env.development
